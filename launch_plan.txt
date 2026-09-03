@@ -1,0 +1,4 @@
+﻿Project Pearl Launch Plan:
+1. Complete RAG integration.
+2. Add voice wake-word.
+3. Deploy final v1.0.
